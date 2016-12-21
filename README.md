@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MarketizerAffApp
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
@@ -33,3 +34,6 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 ## Additional commands
 `npm install @angular/tsc-wrapped autoprefixer` (installing tsc)
 `ng build --prod --env=prod` (build production)
+=======
+# vanillaJS-todo
+>>>>>>> a9b8cdc5a2b521fa3e811fc3f20e716411fcbd32
